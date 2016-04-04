@@ -1,0 +1,14 @@
+@media (max-width: 40em)
+/*640px = Mobile*/
+
+{}
+
+@media (max-width: 64em)
+/*1024px = Tablet*/
+
+{}
+
+@media (max-width: 90em)
+/*1440px = Desktop*/
+
+{}
